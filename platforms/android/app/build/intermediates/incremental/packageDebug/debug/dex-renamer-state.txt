@@ -1,4 +1,4 @@
-#Mon Oct 01 16:23:22 EDT 2018
+#Tue Oct 02 12:22:59 EDT 2018
 base.0=/Users/mm58169/code/hello/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

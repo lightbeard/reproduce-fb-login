@@ -28,6 +28,10 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <config-file parent="/resources" target="./res/values/strings.xml">
+        <string name="fb_app_id">166867187571475</string>
+        <string name="fb_app_name">QuoteStream</string>
+    </config-file>
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="android-minSdkVersion" value="19" />

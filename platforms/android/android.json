@@ -74,6 +74,20 @@
             }
           ]
         }
+      },
+      "./res/values/strings.xml": {
+        "parents": {
+          "/resources": [
+            {
+              "xml": "<string name=\"fb_app_id\">166867187571475</string>",
+              "count": 1
+            },
+            {
+              "xml": "<string name=\"fb_app_name\">QuoteStream</string>",
+              "count": 1
+            }
+          ]
+        }
       }
     }
   },
